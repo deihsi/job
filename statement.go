@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Idea career response listen wear detail stock.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
