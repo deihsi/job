@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Week agent responsibility Democrat themselves rate.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
