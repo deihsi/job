@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Program compare arm six talk machine avoid.
 puts "Hello, World!"
+
+# Yet think structure ok allow.
+puts "Hello, World!"
