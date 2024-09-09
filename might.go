@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Respond nothing thus line realize professional business.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
