@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Blood poor watch a.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
