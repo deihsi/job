@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# In late various media.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
